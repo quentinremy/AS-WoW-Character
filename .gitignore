@@ -1,0 +1,22 @@
+#
+# Windows
+#
+
+# Windows Thumbnail Cache
+Thumbs.db
+
+
+#
+# Linux
+#
+
+# Ignore "backup" files which vim and emacs commonly create
+*~
+
+
+#
+# OS X
+#
+
+# Desktop Service Store files
+.DS_Store
